@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Intermediate Macroeconomics"
 collection: teaching
-type: "Workshop"
+type: "Slides"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Sheffield"
+date: Academic Year, 2021-22 #2015-01-01
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Second part of a year-long module for undergraduate students.
 
 Heading 1
 ======

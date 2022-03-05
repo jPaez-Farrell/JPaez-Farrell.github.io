@@ -10,11 +10,11 @@ date: 2022-01-01
 
 I shall be uploading slides and code shortly.
 
-Heading 1
+# Heading 1
 ======
 
-Heading 2
+# Heading 2
 ======
 
-Heading 3
+# Heading 3
 ======

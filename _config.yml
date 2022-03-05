@@ -83,8 +83,8 @@ author:
   bio              : "Lecturer in Economics"
   location         : "UK"
   employer         : "University of Sheffield"
-  googlescholar    : 
-   email            :
+ # googlescholar    : 
+   email            : "j.paez-farrell@shef.ac.uk"
   # researchgate     :  
   uri              :
   bitbucket        :

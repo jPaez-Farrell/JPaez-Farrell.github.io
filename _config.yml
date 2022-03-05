@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Juan Paez-Farrell/ Academic Page"
+title                    : "Juan Paez-Farrell"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

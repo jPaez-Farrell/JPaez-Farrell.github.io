@@ -9,4 +9,4 @@ date: 01-01-2021
 
 ---
 
-This is a third year undergraduate course for the 2021-22 academic year.
+This is a final year undergraduate course for the 2021-22 academic year.

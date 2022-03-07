@@ -6,8 +6,8 @@ author_profile: true
 ---
 Here is some text
 
-Heading 1
+## Published
 ======
 
-Heading 2
+## Unpublished (work in progress)
 ======

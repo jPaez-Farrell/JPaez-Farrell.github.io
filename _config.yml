@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Paez-Farrell"
+  name             : #"Juan Paez-Farrell"
   avatar           : "profile.png"
   bio              : "Lecturer in Economics"
   location         : "Europe"

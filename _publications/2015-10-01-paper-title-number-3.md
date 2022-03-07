@@ -1,7 +1,6 @@
 ---
 title: "Fiscal policy shocks and international spillovers"
 collection: publications
-permalink: /publications/2020Spillovers
 date: 2022-01-01
 venue: 'European Economic Review'
 ---

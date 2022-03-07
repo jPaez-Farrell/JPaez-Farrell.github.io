@@ -9,6 +9,7 @@ author_profile: true
 
 
 ## Unpublished (work in progress)
+### Commodity prices and macroeconomic dynamics, with Ruthira Naraidoo (U. of Pretoria), working paper available soon.
 ### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
 
 

@@ -13,9 +13,9 @@ author_profile: true
 
 ### [Resuscitating the ad hoc loss function for monetary policy analysis](https://ideas.repec.org/a/eee/ecolet/v123y2014i3p313-317.html), Economics Letters, 2014, 123(2)
 
-###[What determines the sacrifice ratio? A quantile regression approach](https://ideas.repec.org/a/ebl/ecbull/eb-13-00462.html), Economics Bulleting, 33(3), with Thanaset Chevapatrakul (Nottingham)
+### [What determines the sacrifice ratio? A quantile regression approach](https://ideas.repec.org/a/ebl/ecbull/eb-13-00462.html), Economics Bulleting, 33(3), with Thanaset Chevapatrakul (Nottingham)
 
-###[Productivity growth decomposition using a spatial autoregressive frontier model](https://ideas.repec.org/a/eee/ecolet/v119y2013i3p291-295.html), Economics Letters, 2013, 119(3), with Anthony Glass and Karligash Kenjegalieva
+### [Productivity growth decomposition using a spatial autoregressive frontier model](https://ideas.repec.org/a/eee/ecolet/v119y2013i3p291-295.html), Economics Letters, 2013, 119(3), with Anthony Glass and Karligash Kenjegalieva
 
 ### [Should central bankers discount the future? A note](https://ideas.repec.org/a/eee/ecolet/v114y2012i1p20-22.html), Economics Letters, 2012, 114(1)
 

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Juan Paez-Farrell"
-  avatar           : "gc.png"
+  avatar           : "gc.png" # this should be in /images
   bio              : "Lecturer in Economics"
   location         : "Europe"
   employer         : "University of Sheffield"

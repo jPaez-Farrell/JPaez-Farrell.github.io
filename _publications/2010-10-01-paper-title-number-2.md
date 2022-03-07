@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Monetary Policy Reaction Functions in Small Open Economies: a Quantile Regression Approach"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2014Manchester
+excerpt: 'with Thanaset Chevapatrakul (U. of Nottingham)'
+date: 2014-1-1
+venue: 'Manchester School'
+paperurl: 'https://ideas.repec.org/a/bla/manchs/v82y2014i2p237-256.html'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

@@ -303,8 +303,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-# jpf: added for search engine
-{% raw %}{% seo %}{% endraw %}
+
 
 
 # HTML Compression

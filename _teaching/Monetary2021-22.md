@@ -9,4 +9,4 @@ date: 01-01-2021
 
 ---
 
-This is a one-semester course for third year undergraduate students.
+This is a one-semester course for third year undergraduate students. Content will be posted soon.

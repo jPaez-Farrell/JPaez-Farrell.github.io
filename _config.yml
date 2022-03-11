@@ -77,6 +77,8 @@ analytics:
   google:
     tracking_id          :
 
+#jpf added:
+google_analytics: jPaez-Farrell
 
 # Site Author
 author:
@@ -312,3 +314,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+#jpf
+google_analytics: jPaez-Farrell

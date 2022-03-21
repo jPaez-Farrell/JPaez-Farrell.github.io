@@ -10,3 +10,5 @@ date: 01-01-2022
 ---
 
 This is the second half of a second year undergraduate course taught in 2022. Content will be posted soon.
+
+[A diagramatic description of the NK model with fixed prices (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ECN202_content/NK model ECN202 public.pdf)

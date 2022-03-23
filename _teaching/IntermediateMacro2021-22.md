@@ -13,4 +13,8 @@ This is the second half of a second year undergraduate course taught in 2022. Co
 
 [Diagram for the Keynesian coordination failure model (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/Keynesian_Coordination_note_public.pdf)
 
-[A diagramatic description of the NK model with fixed prices (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/NK_model_ECN202_public.pdf)
+[A diagramatic representation of the NK model with fixed prices (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/NK_model_ECN202_public.pdf)
+
+[A diagramatic representation of the NK model with inflation (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/NK_model_inflation_ECN202_public.pdfc.pdf)
+
+

@@ -79,7 +79,7 @@ analytics:
   provider               :  "google" # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-  google_analytics      : G-BEVS01C4Q7
+  google_analytics      : "G-BEVS01C4Q7"
 
 #jpf added:
 google_analytics: "jPaez-Farrell"

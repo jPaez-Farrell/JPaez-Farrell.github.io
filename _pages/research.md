@@ -31,7 +31,7 @@ author_profile: true
 
 
 ## Unpublished (work in progress)
-### [Commodity prices and macroeconomic dynamics](https://ideas.repec.org/p/shf/wpaper/2022008.html), with Ruthira Naraidoo (U. of Pretoria), under submission. [Slides](https://jpaez-farrell.github.io/files/commodities/NPF_Commodities_slides_web_2022.pdf)
+### [Commodity prices and macroeconomic dynamics](https://ideas.repec.org/p/shf/wpaper/2022008.html), with Ruthira Naraidoo (U. of Pretoria), Journal of Economic Dynamics and Control R&R. [Slides](https://jpaez-farrell.github.io/files/commodities/NPF_Commodities_slides_web_2022.pdf)
 ### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
 
 

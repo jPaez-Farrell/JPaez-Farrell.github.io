@@ -9,11 +9,11 @@ author_profile: true
 ## Published
 ### [Fiscal policy shocks and international spillovers](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), European Economic Review, 2022 (41), with [Ayobami Ilori](https://aeilori.wordpress.com/) and [Christoph Thoenissen](https://sites.google.com/site/thoenisseneconomics/)
 
-### [Monetary Policy Reaction Functions in Small Open Economies: a Quantile Regression Approach](https://ideas.repec.org/a/bla/manchs/v82y2014i2p237-256.html), Manchester School, 2014, 82(2), with Thanaset Chevapatrakul (Nottingham)
+### [Monetary Policy Reaction Functions in Small Open Economies: a Quantile Regression Approach](https://ideas.repec.org/a/bla/manchs/v82y2014i2p237-256.html), The Manchester School, 2014, 82(2), with Thanaset Chevapatrakul (Nottingham)
 
 ### [Resuscitating the ad hoc loss function for monetary policy analysis](https://ideas.repec.org/a/eee/ecolet/v123y2014i3p313-317.html), Economics Letters, 2014, 123(2)
 
-### [What determines the sacrifice ratio? A quantile regression approach](https://ideas.repec.org/a/ebl/ecbull/eb-13-00462.html), Economics Bulleting, 33(3), with Thanaset Chevapatrakul (Nottingham)
+### [What determines the sacrifice ratio? A quantile regression approach](https://ideas.repec.org/a/ebl/ecbull/eb-13-00462.html), Economics Bulletin, 33(3), with Thanaset Chevapatrakul (Nottingham)
 
 ### [Productivity growth decomposition using a spatial autoregressive frontier model](https://ideas.repec.org/a/eee/ecolet/v119y2013i3p291-295.html), Economics Letters, 2013, 119(3), with Anthony Glass and Karligash Kenjegalieva
 

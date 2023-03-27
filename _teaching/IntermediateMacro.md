@@ -2,7 +2,7 @@
 title: "Intermediate Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/IntermediateMacro2021-22 
+permalink: /teaching/IntermediateMacro
 venue: "University of Sheffield"
 date: 01-01-2023
 

@@ -4,12 +4,12 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IntermediateMacro2021-22 
 venue: "University of Sheffield"
-date: 01-01-2022
+date: 01-01-2023
 
 
 ---
 
-This is the second half of a second year undergraduate course taught in 2022. Further content will be posted soon.
+Below you can find some content for a second year undergraduate course in macroeconomics.
 
 [Diagram for the Keynesian coordination failure model (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/Keynesian_Coordination_note_public.pdf)
 

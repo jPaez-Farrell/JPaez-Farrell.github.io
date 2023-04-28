@@ -7,6 +7,8 @@ author_profile: true
 (List in the process of being completed)
 
 ## Published
+### [Commodity prices and macroeconomic dynamics]([https://ideas.repec.org/p/shf/wpaper/2022008.html](https://doi.org/10.1016/j.jedc.2023.104654)), with Ruthira Naraidoo (U. of Pretoria), Journal of Economic Dynamics and Control (forthcoming).
+
 ### [Fiscal policy shocks and international spillovers](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), European Economic Review, 2022 (41), with [Ayobami Ilori](https://aeilori.wordpress.com/) and [Christoph Thoenissen](https://sites.google.com/site/thoenisseneconomics/)
 
 ### [Monetary Policy Reaction Functions in Small Open Economies: a Quantile Regression Approach](https://ideas.repec.org/a/bla/manchs/v82y2014i2p237-256.html), The Manchester School, 2014, 82(2), with Thanaset Chevapatrakul (Nottingham)
@@ -31,7 +33,8 @@ author_profile: true
 
 
 ## Unpublished (work in progress)
-### [Commodity prices and macroeconomic dynamics](https://ideas.repec.org/p/shf/wpaper/2022008.html), with Ruthira Naraidoo (U. of Pretoria), Journal of Economic Dynamics and Control R&R. [Slides](https://jpaez-farrell.github.io/files/commodities/NPF_Commodities_slides_web_2022.pdf)
+### On the unimportance of commitment in two-sector New Keynesian models.
+
 ### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
 
 

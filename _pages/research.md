@@ -7,7 +7,7 @@ author_profile: true
 (List in the process of being completed)
 
 ## Published
-### [Commodity prices and macroeconomic dynamics](https://doi.org/10.1016/j.jedc.2023.104654), with Ruthira Naraidoo (U. of Pretoria), Journal of Economic Dynamics and Control (forthcoming).
+### [Commodity prices and macroeconomic dynamics](https://doi.org/10.1016/j.jedc.2023.104654), with Ruthira Naraidoo (U. of Pretoria), Journal of Economic Dynamics and Control (forthcoming)
 
 ### [Fiscal policy shocks and international spillovers](https://ideas.repec.org/a/eee/eecrev/v141y2022ics001429212100252x.html), European Economic Review, 2022 (41), with [Ayobami Ilori](https://aeilori.wordpress.com/) and [Christoph Thoenissen](https://sites.google.com/site/thoenisseneconomics/)
 
@@ -33,7 +33,7 @@ author_profile: true
 
 
 ## Unpublished (work in progress)
-### On the unimportance of commitment in two-sector New Keynesian models.
+### On the unimportance of commitment in two-sector New Keynesian models
 
 ### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
 

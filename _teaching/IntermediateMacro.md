@@ -8,9 +8,6 @@ date: 01-01-2023
 
 
 ---
-
-Below you can find some content for a second year undergraduate course in macroeconomics.
-
 [Diagram for the Keynesian coordination failure model (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/Keynesian_Coordination_note_public.pdf)
 
 [A diagramatic representation of the NK model with fixed prices (based on Williamson's book)](http://jPaez-Farrell.github.io/files/ecn202_content/NK_model_ECN202_public.pdf)

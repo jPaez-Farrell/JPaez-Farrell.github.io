@@ -33,7 +33,7 @@ author_profile: true
 
 
 ## Unpublished (work in progress)
-(<a href="jPaez-Farrell.github.io/files/two_sector_disc_vs_comm/Two_sector_biasv2.pdf" target="_blank">On the unimportance of commitment in two-sector New Keynesian models.</a>)
+<a href="jPaez-Farrell.github.io/files/two_sector_disc_vs_comm/Two_sector_biasv2.pdf" target="_blank">On the unimportance of commitment in two-sector New Keynesian models.</a>
 
 ### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
 

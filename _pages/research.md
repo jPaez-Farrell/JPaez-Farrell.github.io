@@ -33,7 +33,7 @@ author_profile: true
 
 
 ## Unpublished (work in progress)
-### [On the unimportance of commitment for monetary policy]((https://ideas.repec.org/a/ebl/ecbull/eb-06e50023.html))(submitted)
+### [On the unimportance of commitment for monetary policy](https://ideas.repec.org/a/ebl/ecbull/eb-06e50023.html)(submitted)
 
 ### [Taylor rules, central bank preferences and inflation targeting](https://ideas.repec.org/p/shf/wpaper/2015023.html)
 

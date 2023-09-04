@@ -11,7 +11,7 @@ date: 01-01-2023
 
 This is a one-semester course for third year undergraduate students. 
 
-<a href="jPaez-Farrell.github.io/blob/master/files/ecn324_content/Monetary_Economics_Notes.pdf" target="_blank">Notes on Monetary Economics.</a>
+<a href="jPaez-Farrell.github.io/blob/master/_teaching/_teaching/jPaez-Farrell.github.io/blob/master/files/ecn324_content/Monetary_Economics_Notes.pdf" target="_blank">Notes on Monetary Economics.</a>
 
 
 Further content along with exercises will be posted soon.

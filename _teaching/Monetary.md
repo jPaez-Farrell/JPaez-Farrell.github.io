@@ -2,7 +2,7 @@
 title: "Monetary Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-22Monetary 
+permalink: /teaching/MonetaryEconomics
 venue: "University of Sheffield"
 date: 01-01-2023
 
